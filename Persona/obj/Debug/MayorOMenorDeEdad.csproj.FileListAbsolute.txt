@@ -1,0 +1,7 @@
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.exe.config
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.pdb
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.csproj.AssemblyReference.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.pdb
