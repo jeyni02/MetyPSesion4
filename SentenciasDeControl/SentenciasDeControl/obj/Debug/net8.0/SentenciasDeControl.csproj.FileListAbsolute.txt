@@ -1,0 +1,14 @@
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\bin\Debug\net8.0\SentenciasDeControl.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\bin\Debug\net8.0\SentenciasDeControl.deps.json
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\bin\Debug\net8.0\SentenciasDeControl.runtimeconfig.json
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\bin\Debug\net8.0\SentenciasDeControl.dll
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\bin\Debug\net8.0\SentenciasDeControl.pdb
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.AssemblyInfo.cs
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.dll
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\refint\SentenciasDeControl.dll
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.pdb
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\SentenciasDeControl.genruntimeconfig.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\SentenciasDeControl\SentenciasDeControl\obj\Debug\net8.0\ref\SentenciasDeControl.dll
